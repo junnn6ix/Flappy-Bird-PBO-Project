@@ -1,3 +1,9 @@
+<h1>TUGAS BESAR PBO - TEAM 8</h1>
+<ul>
+  <li>Ahmad Fakih</li>
+  <li><a href="https://www.instagram.com/neckjunn/">Ahmad Fawazi</a></li>
+</ul>
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
