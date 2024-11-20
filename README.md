@@ -1,13 +1,3 @@
-<style>
-  ul li {
-    font-size: 1.2rem;
-    list-style: none;
-  }
-  ul li a {
-    color: white;
-    text-decoration: none;
-  }
-</style>
 
 <h1>TUGAS BESAR PBO - TEAM 8</h1>
 <ul>
